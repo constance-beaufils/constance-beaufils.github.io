@@ -126,10 +126,44 @@ ul.task-list li input[type="checkbox"] {
 </header>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
+<style>
+.btn-link {
+  display: inline-block;
+  padding: 0.4em 1em;
+  margin: 0 0.4em;
+  font-size: 0.9rem;
+  color: #555; /* gris foncé plus doux */
+  background-color: #f0f0f0; /* gris clair */
+  border: 1px solid #ccc; /* bordure légère */
+  border-radius: 3px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  position: relative;
+}
+.btn-link:hover {
+  background-color: #ddd;
+  color: #333;
+}
+/* Trait vertical entre boutons sauf après le dernier */
+.btn-link:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  right: -8px;
+  top: 25%;
+  height: 50%;
+  width: 1px;
+  background-color: #ccc;
+}
+</style>
 <div class="text-justify">
 <p>Welcome!</p>
 <p>I am a postdoctoral researcher at King’s College London within the <a href="https://transeuroworks.eu/">TransEuroWorks project</a>. My work focuses on health inequalities in relation to work and gender. In particular, I study career pathways, working conditions, and unpaid care work as social determinants of health. I adopt a life course perspective and use quantitative and mixed methods. I am also affiliated with the French National Institute for Demographic Studies (INED), where I contributed to the <a href="https://ginco.site.ined.fr/en/">ANR GINCO project</a>.</p>
 </div>
+<p><a href="mailto:constance.beaufils@gmail.com" class="btn-link">Email</a></p>
+<p><a href="https://scholar.google.com/citations?user=EX6dx6cAAAAJ&amp;hl=fr&amp;oi=ao" class="btn-link" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
+<p><a href="https://orcid.org/0000-0002-0627-9159" class="btn-link" target="_blank" rel="noopener noreferrer">ORCID iD</a></p>
+<p><a href="https://www.linkedin.com/in/constance-beaufils-3a2574b6/" class="btn-link" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
 
 
 </main></div>
