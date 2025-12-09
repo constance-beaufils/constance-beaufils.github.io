@@ -50,7 +50,7 @@ Welcome!
 
 I am a social demographer currently working as an ACCESS-ERC postdoctoral fellow at IRIS (Université Sorbonne-Paris Nord, INSERM, CNRS, EHESS). My work focuses on health inequalities in relation to work and gender. In particular, I study career pathways, working conditions, and unpaid care work as social determinants of health. I adopt a life course perspective and use quantitative and mixed methods. I am also associated with the [Health Inequalities, Life Course and Ageing Group](https://www.kcl.ac.uk/research/institute-of-gerontology) and with the [Global Institute for Women's Leadership](https://www.kcl.ac.uk/giwl) at King's College London, and I actively collaborate on the [ANR GINCO project](https://ginco.site.ined.fr/en/) at the French National Institute for Demographic Studies (INED).
 
-You can find my detailed CV [here](https://github.com/constance-beaufils/cv/blob/main/CV_Beaufils_EN_2025.pdf).
+You can find my detailed CV [here](https://github.com/constance-beaufils/cv/blob/main/CV_Beaufils_EN_1225.pdf).
 :::
 
 [Email](mailto:constance.beaufils@gmail.com){.btn-link}
