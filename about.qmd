@@ -5,7 +5,7 @@ format:
     theme: lumen
 ---
 
-I am a social demographer currently working as an ACCESS-ERC postdoctoral fellow at IRIS (Université Sorbonne-Paris Nord, INSERM, CNRS, EHESS). My work focuses on health inequalities in relation to work and gender. In particular, I study career pathways, working conditions, and unpaid care work as social determinants of health. I adopt a life course perspective and use quantitative and mixed methods.
+I am a social demographer currently working as an ACCESS-ERC postdoctoral fellow at IRIS (Université Sorbonne-Paris Nord, INSERM, CNRS, EHESS). My work focuses on health inequalities in relation to work and gender. In particular, I study career pathways, working conditions, and unpaid care work as social determinants of health. I adopt a life course perspective and use both quantitative and mixed methods. 
 
 ## Employment and education
 
