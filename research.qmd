@@ -9,6 +9,8 @@ format:
 
 ## Peer-reviewed publications
 
+**Beaufils, C.**, Chung, H. (in press). "Home Advantage or Hidden Strain? The Mental Health Effects of Working from Home Across Gender, Childcare Status, and Occupational Class Before and Since the Pandemic.", Journal of Health and Social Behavior.
+
 **Beaufils, C.**, Geiger, B., & Glaser, K. (2025). "Employment responses to a partner’s disability onset (“care shock”): Do working conditions matter?", The Journals of Gerontology: Series B, 80(4). [Link](https://doi.org/10.1093/geronb/gbae208)
 
 **Beaufils, C.**, Wiernik, E., & Cambois, E. (2024). "Mind the glass ceiling: The gender gap in how depressive symptoms after age 55 relate to earlier career mobility in CONSTANCES", Social Science & Medicine, 362, 117446. [Link](https://doi.org/10.1016/j.socscimed.2024.117446)
@@ -21,9 +23,11 @@ format:
 
 **Beaufils, C.** (2023). "Les retraits féminins du marché du travail : Un fait social invisibilisé au sein de la catégorie statistique de l’inactivité professionnelle", Revue Quételet, 10(1), 1–25. [Link](https://doi.org/10.14428/rqj2022.10.01.01)
 
-## Working papers
+## Reports
 
-**Beaufils, C.**, Heejung, C. "Home Advantage or Hidden Strain? The Mental Health Effects of Working from Home Across Gender, Childcare Status, and Occupational Class Before and Since the Pandemic."
+**Beaufils, C.**, Chung, H., & Yuan, S. (2025). Tradwife: Between Myths and Realities. Global Institute for Women's Leadership, King's College London. [Link](https://www.kcl.ac.uk/giwl/assets/giwl-tradwife-report.pdf)
+
+## Working papers
 
 **Beaufils, C.**, Colineaux, H., Kelly-Irving, M., Delpierre, C., Cambois, E. "Career Mobility and Allostatic Load After Age 55: Evidence from the CONSTANCES Cohort."
 
