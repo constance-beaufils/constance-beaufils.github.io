@@ -5,15 +5,18 @@ format:
     theme: lumen
 ---
 
-I am a social demographer currently working as an ACCESS-ERC postdoctoral fellow at IRIS (Université Sorbonne-Paris Nord, INSERM, CNRS, EHESS). My work focuses on health inequalities in relation to work and gender. In particular, I study career pathways, working conditions, and unpaid care work as social determinants of health. I adopt a life course perspective and use both quantitative and mixed methods. 
+I am a sociologist and demographer based at IRIS (Inserm, Université Sorbonne Paris Nord), where I hold a Junior Professor Chair on "health inequalities". My work focuses on health inequalities in relation to gender and (paid and unpaid) work. I am particularly interested in studying how the accumulation of different experiences in the employment and family spheres shapes differences in health between men and women, and among them. I mainly use quantitative methods, which I combine with biographical interviews in mixed-methods designs. I adopt a life course perspective and consider multiple health dimensions (mental health, disability, chronic diseases and biomarkers).
 
 ## Employment and education
 
-**Postdoctoral Researcher**, King’s College London – *H2020 TransEuroWorkS*\
-*Nov. 2024 – Oct. 2025*
+**Junior Professor**, IRIS (Inserm, Université Sorbonne Paris Nord, CNRS, EHESS) \
+*Feb. 2026 – Today*
 
-**Postdoctoral Researcher**, King’s College London – *ESRC 'Work, Welfare Reform and Mental Health'*\
-*June 2023 – Nov. 2024*
+**Postdoctoral Researcher**, IRIS (Inserm, Université Sorbonne Paris Nord, CNRS, EHESS) – *ANR ACCESS ERC postdoctoral fellowship*\
+*Oct. 2025 – Feb. 2026*
+
+**Postdoctoral Researcher**, King’s College London – *Centre for Society and Mental Health, Global Institute of Women's Leadership*\
+*June 2023 – Oct. 2025*
 
 **Postdoctoral Researcher**, French National Institute for Demographic Studies (Ined) – *ANR GINCO*\
 *Dec. 2022 – June 2023*
